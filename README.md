@@ -20,7 +20,7 @@ limitations under the License.
 
 # smskrsqrt
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Compute the [reciprocal square root][@stdlib/math/base/special/rsqrtf] for each element in a single-precision floating-point strided array according to a strided mask array.
 
@@ -314,6 +314,24 @@ int main() {
 
 <!-- /.c -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math/strided/special/dmskrsqrt`][@stdlib/math/strided/special/dmskrsqrt]</span><span class="delimiter">: </span><span class="description">compute the reciprocal square root for each element in a double-precision floating-point strided array according to a strided mask array.</span>
+-   <span class="package-name">[`@stdlib/math/strided/special/smsksqrt`][@stdlib/math/strided/special/smsksqrt]</span><span class="delimiter">: </span><span class="description">compute the principal square root for each element in a single-precision floating-point strided array according to a strided mask array.</span>
+-   <span class="package-name">[`@stdlib/math/strided/special/srsqrt`][@stdlib/math/strided/special/srsqrt]</span><span class="delimiter">: </span><span class="description">compute the reciprocal square root for each element in a single-precision floating-point strided array.</span>
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -357,8 +375,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-strided-special-smskrsqrt/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-strided-special-smskrsqrt?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/math-strided-special-smskrsqrt.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/math-strided-special-smskrsqrt/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
@@ -374,6 +396,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/base/special/rsqrtf]: https://github.com/stdlib-js/math-base-special-rsqrtf
 
 [@stdlib/array/uint8]: https://github.com/stdlib-js/array-uint8
+
+<!-- <related-links> -->
+
+[@stdlib/math/strided/special/dmskrsqrt]: https://github.com/stdlib-js/math-strided-special-dmskrsqrt
+
+[@stdlib/math/strided/special/smsksqrt]: https://github.com/stdlib-js/math-strided-special-smsksqrt
+
+[@stdlib/math/strided/special/srsqrt]: https://github.com/stdlib-js/math-strided-special-srsqrt
+
+<!-- </related-links> -->
 
 </section>
 
