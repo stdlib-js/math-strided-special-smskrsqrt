@@ -320,9 +320,9 @@ int main() {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/strided/special/dmskrsqrt`][@stdlib/math/strided/special/dmskrsqrt]</span><span class="delimiter">: </span><span class="description">compute the reciprocal square root for each element in a double-precision floating-point strided array according to a strided mask array.</span>
--   <span class="package-name">[`@stdlib/math/strided/special/smsksqrt`][@stdlib/math/strided/special/smsksqrt]</span><span class="delimiter">: </span><span class="description">compute the principal square root for each element in a single-precision floating-point strided array according to a strided mask array.</span>
--   <span class="package-name">[`@stdlib/math/strided/special/srsqrt`][@stdlib/math/strided/special/srsqrt]</span><span class="delimiter">: </span><span class="description">compute the reciprocal square root for each element in a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/dmskrsqrt`][@stdlib/math/strided/special/dmskrsqrt]</span><span class="delimiter">: </span><span class="description">compute the reciprocal square root for each element in a double-precision floating-point strided array according to a strided mask array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/smsksqrt`][@stdlib/math/strided/special/smsksqrt]</span><span class="delimiter">: </span><span class="description">compute the principal square root for each element in a single-precision floating-point strided array according to a strided mask array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/srsqrt`][@stdlib/math/strided/special/srsqrt]</span><span class="delimiter">: </span><span class="description">compute the reciprocal square root for each element in a single-precision floating-point strided array.</span>
 
 </section>
 
